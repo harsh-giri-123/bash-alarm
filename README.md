@@ -4,7 +4,8 @@ A simple bash script to set alarms with customizable sounds and repeat options.
 
 ## Example
 
-![Alarm Example](example.png)
+<a href="img/"><img src="img/example.png" alt="photo" width="100%"></a>
+
 
 ## Usage
 
@@ -18,4 +19,3 @@ Run `./alarmv2.sh` and follow the prompts.
 
 Sounds are in the `alarm_sounds/` directory.
 
-Made by harsh giri.
